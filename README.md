@@ -9,6 +9,8 @@ I'm a full-stack developer and university student at Sunway University building 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gluppler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gluppler?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gluppler?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://gitlab.com/gluppler?tab=followers">
+         <img alt="followers" title="Follow me on Gitlab" src="https://custom-icon-badges.demolab.com/github/followers/gluppler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
@@ -37,10 +39,7 @@ I'm a full-stack developer and university student at Sunway University building 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <br />
 
-#
-
-
-#
+---
 
 ### 📊 Stats
 
@@ -48,7 +47,7 @@ I'm a full-stack developer and university student at Sunway University building 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=gluppler&theme=gruvbox&border_radius=4.5) -->
 
-#
+---
 
 <details>
  <summary><h3>👨‍💻 Gluppler's Coding Journey</h3></summary>
