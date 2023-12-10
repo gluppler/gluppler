@@ -4,7 +4,7 @@
 
 I'm a full-stack developer and university student at Sunway University building my whatever I can one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the project.
 <br />
-**`(Yes, I am in fact an Asian Wombat).`**
+**`Yes, I am in fact an Asian Wombat`**
 
    <p align="left">
       <a href="https://github.com/gluppler?tab=followers">
