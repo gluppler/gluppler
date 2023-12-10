@@ -6,12 +6,12 @@ I'm a full-stack developer and university student at Sunway University building 
 
    <p align="left">
       <a href="https://github.com/gluppler?tab=followers">
-         <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+         <img alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gluppler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/gluppler?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gluppler?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://gitlab.com/gluppler?tab=followers">
-         <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+         <img alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
          <img alt="followers" title="Follow me on Gitlab" src="https://custom-icon-badges.demolab.com/github/followers/gluppler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
