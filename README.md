@@ -7,11 +7,11 @@ I'm a full-stack developer and university student at Sunway University,  buildin
 **`Yes, I am in fact an Asian Wombat`**
 
    <p align="left">
-      <a href="https://github.com/gabeczh?tab=followers">
+      <a href="https://github.com/gluppler?tab=followers">
          <img alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gabeczh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/gabeczh?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gabeczh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gluppler?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/gluppler?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gluppler?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -59,14 +59,14 @@ I'm a full-stack developer and university student at Sunway University,  buildin
 
 ### 📊 Stats
 
-![GabeCZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabeczh&show_icons=true&theme=gruvbox)
+![GabeCZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=gluppler&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=gluppler&theme=gruvbox&border_radius=4.5) -->
 
 ---
 
 <details>
- <summary><h3>👨‍💻 GabeCZH's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Gabe Chew's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself DevOps & CLI development with a dream to build my own tools. 
 
 [website]: **[None Yet]**
