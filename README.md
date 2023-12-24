@@ -76,6 +76,6 @@ I'm a full-stack developer and university student at Sunway University,  buildin
  <summary><h3>👨‍💻 Gabe Chew's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself DevOps & CLI development with a dream to build my own tools. 
 
-[website]: **[None Yet]**
-[youtube]: https://www.youtube.com/@GabeChew/
+[website]: **[None Yet]** <br />
+[youtube](https://www.youtube.com/@GabeChew/)
 
