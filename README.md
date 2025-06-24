@@ -36,8 +36,6 @@ Hi! I'm a Computer Science student at Sunway University with a passion for cyber
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_Icon_2019.svg" />
-<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://portswigger.net/cms/images/og-image.png" />
 <br />
 <br />
 
