@@ -1,8 +1,22 @@
 # 🏄‍♂️ Gabe Chew Zhan Hong 
 
-**`Computer Science Student | Cybersecurity & Hardware Security Enthusiast`**
+**`Computer Science Student | Founder, Behelit Systems & cLc | Hardware & Physical Security Specialist`**
 
-Hi! I'm a Computer Science student at Sunway University with a passion for cybersecurity and hardware security. I love exploring how systems work (and sometimes break), working with embedded devices, and building tools that help make computing more secure. Whether it’s tinkering with microcontrollers or learning about system, network security and also social engineering, I’m always learning something new.
+Hi! I'm a Computer Science student at Sunway University, but my journey into security began 20 years ago (I'm 25) with a hands-on passion for taking things apart. This deep experience in hardware, firmware, and physical systems is the foundation for my two platforms: Behelit Systems, a security firm that secures the physical reality of businesses, and Cult of the LOLCOW (cLc), Malaysia's first open-source hardware hacking community.
+
+My core focus is on the offensive security of the physical world:
+
+    Hardware & Firmware Security
+
+    Physical Intrusion & Covert Entry
+
+    Social Engineering & Human-Factor Security
+
+    Wireless & RF Communication Exploitation
+
+    Adversary Simulation & Red Teaming
+
+I'm driven by the challenge of understanding how systems break and using that knowledge to build more resilient defenses. I am currently seeking a strategic internship for 2026 to gain experience in large-scale corporate security operations, where I can contribute my deep, hands-on expertise to a team solving complex, real-world problems.
 
 **`Yes, I am in fact an Asian Wombat`**
 
