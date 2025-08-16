@@ -2,7 +2,7 @@
 
 **`Computer Science Student | Cybersecurity & Hardware Security Enthusiast`**
 
-Hi! I'm a Computer Science student at Sunway University with a passion for cybersecurity and hardware security. I love exploring how systems work (and sometimes break), working with embedded devices, and building tools that help make computing more secure. Whether it’s tinkering with microcontrollers or learning about system and network security, I’m always learning something new.
+Hi! I'm a Computer Science student at Sunway University with a passion for cybersecurity and hardware security. I love exploring how systems work (and sometimes break), working with embedded devices, and building tools that help make computing more secure. Whether it’s tinkering with microcontrollers or learning about system, network security and also social engineering, I’m always learning something new.
 
 **`Yes, I am in fact an Asian Wombat`**
 
@@ -46,6 +46,8 @@ Hi! I'm a Computer Science student at Sunway University with a passion for cyber
 <img align="left" alt="PfSense" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+<img align="left" alt="tmux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tmux/tmux-original.svg" />
+
 <br />
 <br />
 
