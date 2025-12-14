@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gabe Chew Zhan Hong
 
-**Computer Science Student │ Firmware Engineer │ Full-Stack Developer │ CTF Player │ Founder, Behelit Systems & cLc**
+**Computer Science Student │ Firmware Engineer │ ROM Hacker │ CTF Player │ Founder, Behelit Systems & cLc**
 
 ---
 
