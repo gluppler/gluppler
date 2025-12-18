@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gabe Chew Zhan Hong
 
-**Computer Science Student │ Firmware Engineer │ ROM Hacker │ CTF Player │ Founder, Behelit Systems & cLc**
+**Computer Science Student │ Firmware Engineer │ ROM Hacker │ CTF Player │ Founder of CultLolCow**
 
 ---
 
@@ -8,8 +8,7 @@
 
 Hi, I'm Gabe! I'm a Computer Science student at Sunway University with a 20-year hands-on passion for hardware, firmware, and physical systems. My journey began with taking things apart to see how they work, and today, that curiosity drives my work across multiple domains—from embedded systems and firmware development to full-stack web applications and competitive cybersecurity.
 
-I am the founder of two platforms:
-* **Behelit Systems**: A security firm dedicated to securing the physical reality of businesses.
+I am the founder of a Non-Profit Organization:
 * **Cult of the LOLCOW (cLc)**: Malaysia's first open-source hardware hacking community.
 
 I'm driven by the challenge of understanding how systems break to build more resilient defenses. Whether I'm writing low-level firmware, architecting scalable web applications, or solving CTF challenges, I bring the same methodical approach: understand the fundamentals, exploit the weaknesses, and build something better.
@@ -128,12 +127,6 @@ My work centers on the vulnerabilities of the physical world:
   <img alt="Makefile" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
 </p>
 
-### Security & CTF Tools
-<p>
-  <img alt="Ghidra" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ghidra/ghidra-original.svg" />
-  <img alt="Wireshark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" />
-</p>
-
 ---
 
 ## 📊 My GitHub Stats
@@ -149,8 +142,6 @@ My work centers on the vulnerabilities of the physical world:
 ## 🔗 Connect With Me
 
 * **GitHub**: [@gluppler](https://github.com/gluppler)
-* **Behelit Systems**: [Website](https://behelit.systems) (if available)
-* **Cult of the LOLCOW**: [Community](https://github.com/cult-of-the-lolcow) (if available)
 
 ---
 
