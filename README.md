@@ -1,14 +1,16 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; margin: 0; padding: 0;">
 <tr>
-<td colspan="3" style="padding: 0; border: none;">
+<td colspan="3" style="padding: 0; border: none; line-height: 0;">
 <img src="assets/super-gameboy-border-top.svg" alt="Top Border" width="100%" style="display: block;" />
 </td>
 </tr>
 <tr>
-<td style="width: 8px; padding: 0; background-color: #416828; border: none; border-right: 2px solid #699020;">
-&nbsp;
+<td style="width: 12px; min-width: 12px; padding: 0; border: none; vertical-align: top; background-color: #416828; border-right: 2px solid #88A827;">
+<div style="width: 12px; min-height: 100%; background-color: #416828;">&nbsp;</div>
 </td>
-<td style="padding: 20px; background-color: #214130; color: #88A827; border: none; vertical-align: top;">
+<td style="padding: 20px; background-color: #214130; border: none; vertical-align: top; color: #88A827; width: auto;">
+
+<div style="color: #88A827; font-family: monospace;">
 
 <div align="center">
 
@@ -30,7 +32,7 @@
 
 </div>
 
-## 📺 STATUS PANEL
+<h2 style="color: #88A827; font-family: monospace; border: none; margin: 20px 0 10px 0;">📺 STATUS PANEL</h2>
 
 <div align="center">
 
@@ -47,25 +49,29 @@
 
 </div>
 
-<table style="width: 100%; border: none; background-color: transparent;">
+<table style="width: 100%; border: none; background-color: transparent; margin: 20px 0;">
 <tr>
-<td width="50%" valign="top" style="color: #88A827; padding: 10px;">
+<td width="50%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
 
-**🔧 CORE FUNCTIONS:**
-- Assembly language programming and optimization
-- ROM hacking and reverse engineering
-- Capture The Flag (CTF) competition participation
-- Hardware hacking and low-level system analysis
-- Community leadership and organization
+<strong style="color: #88A827;">🔧 CORE FUNCTIONS:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Assembly language programming and optimization</li>
+<li style="margin: 5px 0;">ROM hacking and reverse engineering</li>
+<li style="margin: 5px 0;">Capture The Flag (CTF) competition participation</li>
+<li style="margin: 5px 0;">Hardware hacking and low-level system analysis</li>
+<li style="margin: 5px 0;">Community leadership and organization</li>
+</ul>
 
 </td>
-<td width="50%" valign="top" style="color: #88A827; padding: 10px;">
+<td width="50%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
 
-**🎯 ACTIVE DOMAINS:**
-- Retro gaming hardware modification
-- Security research and exploitation
-- Embedded systems development
-- Hardware hacking community building
+<strong style="color: #88A827;">🎯 ACTIVE DOMAINS:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Retro gaming hardware modification</li>
+<li style="margin: 5px 0;">Security research and exploitation</li>
+<li style="margin: 5px 0;">Embedded systems development</li>
+<li style="margin: 5px 0;">Hardware hacking community building</li>
+</ul>
 
 </td>
 </tr>
@@ -77,7 +83,7 @@
 
 </div>
 
-## 💾 MEMORY BANKS
+<h2 style="color: #88A827; font-family: monospace; border: none; margin: 20px 0 10px 0;">💾 MEMORY BANKS</h2>
 
 <div align="center">
 
@@ -102,11 +108,11 @@
 
 </div>
 
-## 🎮 PROJECT ROMS
+<h2 style="color: #88A827; font-family: monospace; border: none; margin: 20px 0 10px 0;">🎮 PROJECT ROMS</h2>
 
 <div align="center">
 
-### 🟢 ROM-001: S-NES-BOY
+<h3 style="color: #88A827; font-family: monospace; margin: 10px 0;">🟢 ROM-001: S-NES-BOY</h3>
 
 </div>
 
@@ -131,7 +137,7 @@
 
 </div>
 
-## 👥 COMMUNITY MODULE
+<h2 style="color: #88A827; font-family: monospace; border: none; margin: 20px 0 10px 0;">👥 COMMUNITY MODULE</h2>
 
 <div align="center">
 
@@ -145,10 +151,12 @@
 ╚═══════════════════════════════════════════════════════════════╝
 </pre>
 
-**🎯 MISSION:**
-- First and only Hardware Hacking Community in Malaysia
-- Promoting hardware hacking and embedded systems knowledge
-- Building a trusted community for hardware enthusiasts
+<p style="color: #88A827; font-family: monospace; margin: 15px 0 5px 0;"><strong style="color: #88A827;">🎯 MISSION:</strong></p>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px; text-align: left; display: inline-block;">
+<li style="margin: 5px 0;">First and only Hardware Hacking Community in Malaysia</li>
+<li style="margin: 5px 0;">Promoting hardware hacking and embedded systems knowledge</li>
+<li style="margin: 5px 0;">Building a trusted community for hardware enthusiasts</li>
+</ul>
 
 </div>
 
@@ -158,58 +166,70 @@
 
 </div>
 
-## 🛠️ TOOLCHAIN
+<h2 style="color: #88A827; font-family: monospace; border: none; margin: 20px 0 10px 0;">🛠️ TOOLCHAIN</h2>
 
-<table style="width: 100%; border: none; background-color: transparent;">
+<table style="width: 100%; border: none; background-color: transparent; margin: 20px 0;">
 <tr>
-<td width="33%" valign="top" style="color: #88A827; padding: 10px;">
+<td width="33%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
 
-**💻 LANGUAGES:**
-- Assembly (x86, ARM, 6502)
-- C, C++
-- Python
-
-</td>
-<td width="33%" valign="top" style="color: #88A827; padding: 10px;">
-
-**🔍 TOOLS:**
-- Ghidra
-- IDA Pro
-- GDB
-- Radare2
+<strong style="color: #88A827;">💻 LANGUAGES:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Assembly (x86, ARM, 6502)</li>
+<li style="margin: 5px 0;">C, C++</li>
+<li style="margin: 5px 0;">Python</li>
+</ul>
 
 </td>
-<td width="33%" valign="top" style="color: #88A827; padding: 10px;">
+<td width="33%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
 
-**⚙️ HARDWARE:**
-- Game Boy
-- SNES
-- Arduino
-- Raspberry Pi
+<strong style="color: #88A827;">🔍 TOOLS:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Ghidra</li>
+<li style="margin: 5px 0;">IDA Pro</li>
+<li style="margin: 5px 0;">GDB</li>
+<li style="margin: 5px 0;">Radare2</li>
+</ul>
+
+</td>
+<td width="33%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
+
+<strong style="color: #88A827;">⚙️ HARDWARE:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Game Boy</li>
+<li style="margin: 5px 0;">SNES</li>
+<li style="margin: 5px 0;">Arduino</li>
+<li style="margin: 5px 0;">Raspberry Pi</li>
+</ul>
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top" style="color: #88A827; padding: 10px;">
+<td width="33%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
 
-**🏆 CTF PLATFORMS:**
-- Local competitions
-- International CTFs
-
-</td>
-<td width="33%" valign="top" style="color: #88A827; padding: 10px;">
-
-**🎮 ROM TOOLS:**
-- Hex editors
-- Disassemblers
-- Emulators
+<strong style="color: #88A827;">🏆 CTF PLATFORMS:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Local competitions</li>
+<li style="margin: 5px 0;">International CTFs</li>
+</ul>
 
 </td>
-<td width="33%" valign="top" style="color: #88A827; padding: 10px;">
+<td width="33%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
 
-**📦 VERSION CONTROL:**
-- Git
-- GitHub
+<strong style="color: #88A827;">🎮 ROM TOOLS:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Hex editors</li>
+<li style="margin: 5px 0;">Disassemblers</li>
+<li style="margin: 5px 0;">Emulators</li>
+</ul>
+
+</td>
+<td width="33%" valign="top" style="color: #88A827; padding: 10px; font-family: monospace;">
+
+<strong style="color: #88A827;">📦 VERSION CONTROL:</strong>
+<ul style="color: #88A827; font-family: monospace; margin: 10px 0; padding-left: 20px;">
+<li style="margin: 5px 0;">Git</li>
+<li style="margin: 5px 0;">GitHub</li>
+</ul>
 
 </td>
 </tr>
@@ -221,12 +241,12 @@
 
 </div>
 
-## 📊 DEBUG / TELEMETRY
+<h2 style="color: #88A827; font-family: monospace; border: none; margin: 20px 0 10px 0;">📊 DEBUG / TELEMETRY</h2>
 
 <details>
-<summary><b>🔍 SYSTEM METRICS</b></summary>
+<summary style="color: #88A827; font-family: monospace;"><strong style="color: #88A827;">🔍 SYSTEM METRICS</strong></summary>
 
-<div align="center">
+<div align="center" style="color: #88A827; font-family: monospace;">
 
 <pre style="color: #88A827; background-color: transparent; border: none; padding: 0; margin: 0; font-family: monospace;">
 [STATS MODULE LOADED]
@@ -236,7 +256,7 @@
 [GENERATING STATISTICS...]
 </pre>
 
-*GitHub statistics and activity metrics would appear here*
+<p style="color: #88A827; font-family: monospace; margin: 10px 0;"><em>GitHub statistics and activity metrics would appear here</em></p>
 
 </div>
 
@@ -262,13 +282,15 @@
 
 </div>
 
+</div>
+
 </td>
-<td style="width: 8px; padding: 0; background-color: #416828; border: none; border-left: 2px solid #699020;">
-&nbsp;
+<td style="width: 12px; min-width: 12px; padding: 0; border: none; vertical-align: top; background-color: #416828; border-left: 2px solid #88A827;">
+<div style="width: 12px; min-height: 100%; background-color: #416828;">&nbsp;</div>
 </td>
 </tr>
 <tr>
-<td colspan="3" style="padding: 0; border: none;">
+<td colspan="3" style="padding: 0; border: none; line-height: 0;">
 <img src="assets/super-gameboy-border-bottom.svg" alt="Bottom Border" width="100%" style="display: block;" />
 </td>
 </tr>

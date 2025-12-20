@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="1" viewBox="0 0 12 1" preserveAspectRatio="none">
+  <!-- Left border - Pea Green Theme (repeating pattern) -->
+  <rect x="0" y="0" width="12" height="1" fill="#214130"/>
+  <rect x="0" y="0" width="4" height="1" fill="#416828"/>
+  <rect x="4" y="0" width="3" height="1" fill="#699020"/>
+  <rect x="7" y="0" width="3" height="1" fill="#88A827"/>
+  <rect x="10" y="0" width="2" height="1" fill="#699020"/>
+</svg>
