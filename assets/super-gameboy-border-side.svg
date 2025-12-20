@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="100%" viewBox="0 0 8 100" preserveAspectRatio="none">
+  <!-- Side border - Pea Green Theme -->
+  <rect x="0" y="0" width="8" height="100" fill="#214130"/>
+  
+  <!-- Left border pattern -->
+  <rect x="0" y="0" width="3" height="100" fill="#416828"/>
+  <rect x="3" y="0" width="2" height="100" fill="#699020"/>
+  <rect x="5" y="0" width="2" height="100" fill="#88A827"/>
+  <rect x="7" y="0" width="1" height="100" fill="#699020"/>
+</svg>

@@ -1,41 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="60" viewBox="0 0 800 60">
-  <!-- Super Game Boy Border Frame -->
-  <rect x="0" y="0" width="800" height="60" fill="#2d5016" stroke="#1a3009" stroke-width="2"/>
+  <!-- Super Game Boy Border Frame - Pea Green Theme -->
+  <rect x="0" y="0" width="800" height="60" fill="#214130" stroke="#416828" stroke-width="2"/>
   
   <!-- Top border pattern -->
-  <rect x="0" y="0" width="800" height="8" fill="#1a3009"/>
-  <rect x="0" y="8" width="800" height="4" fill="#3d7026"/>
-  <rect x="0" y="12" width="800" height="2" fill="#2d5016"/>
+  <rect x="0" y="0" width="800" height="8" fill="#416828"/>
+  <rect x="0" y="8" width="800" height="4" fill="#699020"/>
+  <rect x="0" y="12" width="800" height="2" fill="#214130"/>
   
   <!-- Corner decorations -->
-  <rect x="0" y="0" width="20" height="20" fill="#1a3009"/>
-  <rect x="780" y="0" width="20" height="20" fill="#1a3009"/>
-  <rect x="0" y="40" width="20" height="20" fill="#1a3009"/>
-  <rect x="780" y="40" width="20" height="20" fill="#1a3009"/>
+  <rect x="0" y="0" width="20" height="20" fill="#416828"/>
+  <rect x="780" y="0" width="20" height="20" fill="#416828"/>
+  <rect x="0" y="40" width="20" height="20" fill="#416828"/>
+  <rect x="780" y="40" width="20" height="20" fill="#416828"/>
   
   <!-- Pixel pattern corners -->
-  <rect x="2" y="2" width="4" height="4" fill="#3d7026"/>
-  <rect x="8" y="2" width="4" height="4" fill="#3d7026"/>
-  <rect x="2" y="8" width="4" height="4" fill="#3d7026"/>
+  <rect x="2" y="2" width="4" height="4" fill="#88A827"/>
+  <rect x="8" y="2" width="4" height="4" fill="#88A827"/>
+  <rect x="2" y="8" width="4" height="4" fill="#88A827"/>
   
-  <rect x="794" y="2" width="4" height="4" fill="#3d7026"/>
-  <rect x="788" y="2" width="4" height="4" fill="#3d7026"/>
-  <rect x="794" y="8" width="4" height="4" fill="#3d7026"/>
+  <rect x="794" y="2" width="4" height="4" fill="#88A827"/>
+  <rect x="788" y="2" width="4" height="4" fill="#88A827"/>
+  <rect x="794" y="8" width="4" height="4" fill="#88A827"/>
   
-  <rect x="2" y="54" width="4" height="4" fill="#3d7026"/>
-  <rect x="8" y="54" width="4" height="4" fill="#3d7026"/>
-  <rect x="2" y="48" width="4" height="4" fill="#3d7026"/>
+  <rect x="2" y="54" width="4" height="4" fill="#88A827"/>
+  <rect x="8" y="54" width="4" height="4" fill="#88A827"/>
+  <rect x="2" y="48" width="4" height="4" fill="#88A827"/>
   
-  <rect x="794" y="54" width="4" height="4" fill="#3d7026"/>
-  <rect x="788" y="54" width="4" height="4" fill="#3d7026"/>
-  <rect x="794" y="48" width="4" height="4" fill="#3d7026"/>
+  <rect x="794" y="54" width="4" height="4" fill="#88A827"/>
+  <rect x="788" y="54" width="4" height="4" fill="#88A827"/>
+  <rect x="794" y="48" width="4" height="4" fill="#88A827"/>
   
   <!-- Bottom border pattern -->
-  <rect x="0" y="52" width="800" height="2" fill="#2d5016"/>
-  <rect x="0" y="54" width="800" height="4" fill="#3d7026"/>
-  <rect x="0" y="58" width="800" height="2" fill="#1a3009"/>
+  <rect x="0" y="52" width="800" height="2" fill="#214130"/>
+  <rect x="0" y="54" width="800" height="4" fill="#699020"/>
+  <rect x="0" y="58" width="800" height="2" fill="#416828"/>
   
   <!-- Side borders -->
-  <rect x="0" y="14" width="4" height="38" fill="#1a3009"/>
-  <rect x="796" y="14" width="4" height="38" fill="#1a3009"/>
+  <rect x="0" y="14" width="4" height="38" fill="#416828"/>
+  <rect x="796" y="14" width="4" height="38" fill="#416828"/>
 </svg>
