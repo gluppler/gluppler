@@ -1,14 +1,14 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; margin: 0; padding: 0;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; margin: 0; padding: 0; background-color: #214130;">
 <tr>
-<td colspan="3" style="padding: 0; border: none; line-height: 0;">
+<td colspan="3" style="padding: 0; border: none; line-height: 0; background-color: #214130;">
 <img src="assets/super-gameboy-border-top.svg" alt="Top Border" width="100%" style="display: block;" />
 </td>
 </tr>
 <tr>
-<td style="width: 12px; min-width: 12px; padding: 0; border: none; vertical-align: top; background-color: #416828; border-right: 2px solid #88A827;">
-<div style="width: 12px; min-height: 100%; background-color: #416828;">&nbsp;</div>
+<td style="width: 16px; min-width: 16px; padding: 0; margin: 0; border: none; vertical-align: top; background-color: #416828; border-right: 3px solid #88A827; background-image: repeating-linear-gradient(to bottom, #416828 0px, #416828 2px, #699020 2px, #699020 4px, #88A827 4px, #88A827 6px, #699020 6px, #699020 8px);">
+<div style="width: 16px; min-height: 100%; background-color: #416828;">&nbsp;</div>
 </td>
-<td style="padding: 20px; background-color: #214130; border: none; vertical-align: top; color: #88A827; width: auto;">
+<td style="padding: 20px; background-color: #214130; border-left: 2px solid #416828; border-right: 2px solid #416828; vertical-align: top; color: #88A827; width: auto;">
 
 <div style="color: #88A827; font-family: monospace;">
 
@@ -285,12 +285,12 @@
 </div>
 
 </td>
-<td style="width: 12px; min-width: 12px; padding: 0; border: none; vertical-align: top; background-color: #416828; border-left: 2px solid #88A827;">
-<div style="width: 12px; min-height: 100%; background-color: #416828;">&nbsp;</div>
+<td style="width: 16px; min-width: 16px; padding: 0; margin: 0; border: none; vertical-align: top; background-color: #416828; border-left: 3px solid #88A827; background-image: repeating-linear-gradient(to bottom, #416828 0px, #416828 2px, #699020 2px, #699020 4px, #88A827 4px, #88A827 6px, #699020 6px, #699020 8px);">
+<div style="width: 16px; min-height: 100%; background-color: #416828;">&nbsp;</div>
 </td>
 </tr>
 <tr>
-<td colspan="3" style="padding: 0; border: none; line-height: 0;">
+<td colspan="3" style="padding: 0; border: none; line-height: 0; background-color: #214130;">
 <img src="assets/super-gameboy-border-bottom.svg" alt="Bottom Border" width="100%" style="display: block;" />
 </td>
 </tr>
