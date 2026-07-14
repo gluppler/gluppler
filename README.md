@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Embedded Systems, AI Systems, and Automation Engineering<br>👯 I’m looking to collaborate on Framework Projects<br>🌱 I’m currently learning Rust, Go, Zig, Agentic AI, MCPs, RAGs<br>💬 Ask me about Systems Programming and Automation Engineering<br>⚡ Fun fact I am in fact an Asian Wombat and I have been ghosted by 1284 companies during my job hunt.
+🔭 I’m currently working on Embedded Systems, AI Systems, and Automation Engineering<br>👯 I’m looking to collaborate on Framework Projects<br>🌱 I’m currently doing Native C Projects again<br>💬 Ask me about Systems Programming and Automation Engineering<br>⚡ Fun fact I am in fact an Asian Wombat and I have been ghosted by 1284 companies during my job hunt.
 
 
 # 💻 Tech Stack:
